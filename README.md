@@ -35,20 +35,45 @@ All task management activities are available for individual users as well as gro
  - JS, CSS
  - Firebase
 
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm install
-```
-```bash
-  npx expo start
-```
-
-
 ## Overview
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<p float="left">
+ <img src="./assets/overview/welcome.jpg" width=250>
+ <img src="./assets/overview/login.jpg" width=250>
+ <img src="./assets/overview/skan.jpg" width=250>
+</p>
+<p float="left">
+ <img src="./assets/overview/task1.jpg" width=250>
+ <img src="./assets/overview/task3.jpg" width=250>
+ <img src="./assets/overview/edit.jpg" width=250>
+</p>
+<p float="left">
+ <img src="./assets/overview/add2.jpg" width=250>
+ <img src="./assets/overview/add3.jpg" width=250>
+ <img src="./assets/overview/add4.jpg" width=250>
+</p>
+<p float="left">
+ <img src="./assets/overview/addfriend.jpg" width=250>
+ <img src="./assets/overview/addGroup.jpg" width=250>
+ <img src="./assets/overview/taskGroup1.jpg" width=250>
+</p>
+<p float="left">
+ <img src="./assets/overview/taskGroup2.jpg" width=250>
+ <img src="./assets/overview/taskGroup3.jpg" width=250>
+ <img src="./assets/overview/czat1.jpg" width=250>
+</p>
+<p float="left">
+ <img src="./assets/overview/chat4.jpg" width=250>
+ <img src="./assets/overview/chat1.jpg" width=250>
+ <img src="./assets/overview/map.jpg" width=250>
+</p>
+<p float="left">
+ <img src="./assets/overview/sett.jpg" width=250>
+ <img src="./assets/overview/info.jpg" width=250>
+ <img src="./assets/overview/theme.jpg" width=250>
+</p>
+<p float="left">
+ <img src="./assets/overview/authors.jpg" width=250>
+ <img src="./assets/overview/drawer.jpg" width=250>
+</p>
 
