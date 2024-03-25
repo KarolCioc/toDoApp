@@ -1,0 +1,32 @@
+{
+  "task": [
+    {
+      "id": 1,
+      "name": "Kupić prezent siostrze",
+      "completed": false,
+      "date": "2024-01-24",
+      "priority": 1
+    },
+    {
+      "id": 3,
+      "name": "Zadanie 2",
+      "completed": false,
+      "date": "2024-01-22",
+      "priority": 3
+    },
+    {
+      "id": 5,
+      "name": "Nowe zadanie",
+      "completed": false,
+      "date": "2024-01-22",
+      "priority": 1
+    },
+    {
+      "id": 6,
+      "name": "Zadanie",
+      "completed": false,
+      "date": "2024-01-22",
+      "priority": 1
+    }
+  ]
+}

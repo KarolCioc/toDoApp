@@ -1,0 +1,26 @@
+{
+  "task": [
+    {
+      "id": 4,
+      "name": "Dokończyć projekt",
+      "completed": false,
+      "location": {
+        "latitude": 50.879535998620064,
+        "longitude": 20.639737672059038,
+        "latitudeDelta": 0.0922,
+        "longitudeDelta": 0.0421
+      }
+    },
+    {
+      "id": 7,
+      "name": "Dokończyć kurs",
+      "completed": false,
+      "location": {
+        "latitude": 50.88654322352222,
+        "longitude": 20.62892701057465,
+        "latitudeDelta": 0.0922,
+        "longitudeDelta": 0.0421
+      }
+    }
+  ]
+}

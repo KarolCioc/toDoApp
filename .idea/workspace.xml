@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="381ad747-41a5-41b0-86af-f567f79d46c2" name="Changes" comment="Camera and localization with maps">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AddGroup.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/AddGroup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/AddTask.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/AddTask.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Drawer.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Drawer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/GroupChats.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/GroupChats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/GroupTasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/GroupTasks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Informations.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Informations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Settings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SpecGroup.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/SpecGroup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SpecIndividual.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/SpecIndividual.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/UserContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/UserContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/style.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/style.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="c47d0348-19f5-43ea-9c03-fe85f74f74e8" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2blnE32An0yvKRv0fjs04zLDxZR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Filip/source/repos/React/WhaleNotes&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.3.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="381ad747-41a5-41b0-86af-f567f79d46c2" name="Changes" comment="" />
+      <created>1706798420435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706798420435</updated>
+      <workItem from="1706798421447" duration="26147000" />
+      <workItem from="1706909609123" duration="13668000" />
+      <workItem from="1706970646628" duration="583000" />
+      <workItem from="1706971256272" duration="192000" />
+      <workItem from="1706975882542" duration="599000" />
+      <workItem from="1706985439690" duration="30979000" />
+      <workItem from="1707049481891" duration="30306000" />
+    </task>
+    <task id="LOCAL-00001" summary="pogrupowane czaty">
+      <created>1707002887600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707002887600</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pogrupowane czaty">
+      <created>1707003106263</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707003106263</updated>
+    </task>
+    <task id="LOCAL-00003" summary="image name change">
+      <created>1707003134137</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707003134137</updated>
+    </task>
+    <task id="LOCAL-00004" summary="individual chats">
+      <created>1707003778559</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707003778559</updated>
+    </task>
+    <task id="LOCAL-00005" summary="individual chats">
+      <created>1707005318915</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707005318915</updated>
+    </task>
+    <task id="LOCAL-00006" summary="individual chats">
+      <created>1707017185139</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707017185139</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Camera and localization with maps">
+      <created>1707087421605</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707087421605</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="grouped chats" />
+    <MESSAGE value="pogrupowane czaty" />
+    <MESSAGE value="image name change" />
+    <MESSAGE value="individual chats" />
+    <MESSAGE value="Camera and localization with maps" />
+    <option name="LAST_COMMIT_MESSAGE" value="Camera and localization with maps" />
+  </component>
+</project>
